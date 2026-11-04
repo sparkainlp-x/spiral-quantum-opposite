@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+title: spiral-quantum-opposite
+version: 0.1.0
+date-released: 2026-11-03
+authors:
+  - family-names: Brisson
+    given-names: Jean-François
+    affiliation: Spark AI NLP
+license: AGPL-3.0-only
+message: >-
+  If you use this software, please cite it using these metadata.
+  Quantum-opposite reading of a spiral-envelope toy mode, synthetic
+  only. No claim about real atoms, real electromagnetism, or quantum
+  mechanics.
+abstract: >-
+  The quantum opposite of a spiral-envelope mode on a 2D disk: the same
+  decaying envelope and frozen closure gate, read as a normalised
+  quantum amplitude with the winding reversed. The opposite is invisible
+  in density, orthogonal in amplitude, opposite in angular momentum,
+  and visible only by interference. Standard library only.
